@@ -1,0 +1,10 @@
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\bin\Debug\RecuperadorXML.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\bin\Debug\RecuperadorXML.exe
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\bin\Debug\RecuperadorXML.pdb
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.csproj.ResolveComReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.formulario.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.Properties.Resources.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.csproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.exe
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RecuperadorXML\RecuperadorXML\obj\Debug\RecuperadorXML.pdb
